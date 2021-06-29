@@ -23,3 +23,7 @@
 - [VEX Forum](https://www.vexforum.com/) - The essential forum for all things VEX.
 - [Discord Server](http://discord.gg/) - Chat community for robotics advice and socialization with other VEX students, mentors, and alumni, as well as direct access to vendors of VEX-related products. The absolute best place to go for VEX discussion.
 - [Discord Server List](https://docs.google.com/spreadsheets/d/1MqwE_L4Z0RDf1Sn-dsfFZ7jBVD8bMkqPHGrqrejq_o0/edit) - List of unofficial regional, organizational, and community servers for VEX.
+
+## Repositories
+
+- [purduesigbots/pros](https://github.com/purduesigbots/pros) - Source code for PROS kernel: open source C/C++ development for the VEX V5 microcontroller
