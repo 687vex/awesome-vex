@@ -20,10 +20,8 @@
 
 - [VRC Current Game Overview](https://www.vexrobotics.com/v5/competition/vrc-current-game) - Brief overview of this season's competition.
 - [VRC Game Manual](https://content.vexrobotics.com/docs/21-22/tipping-point/GameManual-1.0.pdf) - Game manual for this season's competition.
-- [VRC Hub App](https://www.vexrobotics.com/v5/competition/vrc-hub) - official competition companion for teams, spectators, and event planners involved in the VEX Robotics Competition!
-- [The Compass Alliance](https://www.thecompassalliance.org/) - A resource for learning about all FRC topic, made for any level of experience.
-- [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers.
-- [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
+- [VRC Hub App](https://www.vexrobotics.com/v5/competition/vrc-hub) - Official competition companion for teams, spectators, and event planners involved in the VEX Robotics Competition!
+- [VRC Events](https://www.robotevents.com/robot-competitions/vex-robotics-competition) - View upcoming VRC events as well as register to compete in events.
 
 ## Suppliers
 
