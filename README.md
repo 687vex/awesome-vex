@@ -18,20 +18,26 @@
 
 ## General
 
-- [VEX V5 Knowledge Base](https://kb.vex.com/hc/en-us/categories/360002333191-V5) - A resource for learning about all VEX topics regarding VEX V5 robots, best for beginners.
-- [The Blue Alliance](https://www.thebluealliance.com/) - FRC's leading event, team, and match tracker.
-- [The Compass Alliance](https://www.thecompassalliance.org/) - A resource for learning about all FRC topic, made for any level of experience.
-- [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers.
+- [VRC Current Game Overview](https://www.vexrobotics.com/v5/competition/vrc-current-game) - Brief overview of this season's competition.
+- [VRC Game Manual](https://content.vexrobotics.com/docs/21-22/tipping-point/GameManual-1.0.pdf) - Game manual for this season's competition.
+- [VRC Hub App](https://www.vexrobotics.com/v5/competition/vrc-hub) - Official competition companion for teams, spectators, and event planners involved in the VEX Robotics Competition!
+- [VRC Events](https://www.robotevents.com/robot-competitions/vex-robotics-competition) - View upcoming VRC events as well as register to compete in events.
 
 ## Suppliers
 
 
 ## Programming
 
+- [VEXcode API Reference](https://api.vexcode.cloud/v5/html/) - Information on the V5 API included inside of VEXcode pro V5
+- [PROS Documentation](https://pros.cs.purdue.edu/cortex/index.html) - Getting started with PROS
 
 ## Scouting
 
 - [VEX Database](http://vexdb.io/) - Versdatabase for pre-competition scouting. You can search any team in existence and all of their stats, and the API is easy to use and well documented.
+
+## Scouting
+
+- [VexDB](https://vexdb.io/) - Most up-to-date database for viewing information about VEX teams and events. Includes an API whuch is easy to use and well documented.
 
 ## ENB
 
@@ -47,4 +53,3 @@
 
 - [purduesigbots/pros](https://github.com/purduesigbots/pros) - Source code for PROS kernel: open source C/C++ development for the VEX V5 microcontroller
 - [the7dorks/2020-annotated-robot-code](https://github.com/the7dorks/2020-annotated-robot-code) - All of the code used by 333A's robot in the 2020-2021 VRC Annotated Programming Skills Challenge.
-
