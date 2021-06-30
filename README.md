@@ -14,23 +14,26 @@
 - [ENB](#ENB)
 - [Community](#community)
 - [Repositories](#repositories)
-  - [Pros (C++/C#)](#pros)
 
 ## General
 
-- [FRC Penultimate Manual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
+- [VEX V5 Knowledge Base](https://kb.vex.com/hc/en-us/categories/360002333191-V5) - A resource for learning about all VEX topics regarding VEX V5 robots, best for beginners.
 - [The Blue Alliance](https://www.thebluealliance.com/) - FRC's leading event, team, and match tracker.
 - [The Compass Alliance](https://www.thecompassalliance.org/) - A resource for learning about all FRC topic, made for any level of experience.
 - [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers.
-- [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
 
 ## Suppliers
 
+
 ## Programming
+
 
 ## Scouting
 
+- [VEX Database](http://vexdb.io/) - Versdatabase for pre-competition scouting. You can search any team in existence and all of their stats, and the API is easy to use and well documented.
+
 ## ENB
+
 
 ## Community
 
@@ -40,10 +43,7 @@
 - [Discord Server List](https://docs.google.com/spreadsheets/d/1MqwE_L4Z0RDf1Sn-dsfFZ7jBVD8bMkqPHGrqrejq_o0/edit) - List of unofficial regional, organizational, and community servers for VEX.
 
 ## Repositories
-### Pros
-- [pros](https://github.com/purduesigbots/pros) - Source code for PROS kernel: open source C/C++ development for the VEX V5 microcontroller
-- [pros-cli](https://github.com/purduesigbots/pros-cli) - Command Line Interface for managing PROS projects. Works with V5 and the Cortex
-- [pros-vsc](https://github.com/purduesigbots/pros-vsc) - PROS plugin for VS Code
-- [OkapiLib](https://github.com/OkapiLib/OkapiLib) - A PROS library for programming VEX robots.
-- [2020-annotated-robot-code](https://github.com/the7dorks/2020-annotated-robot-code) - All of the code used by 333A's robot in the 2020-2021 VRC Annotated Programming Skills Challenge.
-- 
+
+- [purduesigbots/pros](https://github.com/purduesigbots/pros) - Source code for PROS kernel: open source C/C++ development for the VEX V5 microcontroller
+- [the7dorks/2020-annotated-robot-code](https://github.com/the7dorks/2020-annotated-robot-code) - All of the code used by 333A's robot in the 2020-2021 VRC Annotated Programming Skills Challenge.
+
