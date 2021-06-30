@@ -30,6 +30,8 @@
 
 ## Scouting
 
+- [VexDB](https://vexdb.io/) - Most up-to-date database for viewing information about VEX teams and events. Includes an API whuch is easy to use and well documented.
+
 ## ENB
 
 ## Community
