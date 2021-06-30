@@ -11,11 +11,25 @@
 - [Programming](#programming)
 - [Electronics](#electronics)
 - [Scouting](#scouting)
-- [Driving](#driving)
 - [ENB](#ENB)
 - [Community](#community)
 - [Repositories](#repositories)
 
+## General
+
+- [FRC Penultimate Manual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
+- [The Blue Alliance](https://www.thebluealliance.com/) - FRC's leading event, team, and match tracker.
+- [The Compass Alliance](https://www.thecompassalliance.org/) - A resource for learning about all FRC topic, made for any level of experience.
+- [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers.
+- [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
+
+## Suppliers
+
+## Programming
+
+## Scouting
+
+## ENB
 
 ## Community
 
