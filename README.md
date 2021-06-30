@@ -27,6 +27,9 @@
 
 ## Programming
 
+- [VEXcode API Reference](https://api.vexcode.cloud/v5/html/) - Information on the V5 API included inside of VEXcode pro V5
+- [PROS Documentation](https://pros.cs.purdue.edu/cortex/index.html) - Getting started with PROS
+
 ## Scouting
 
 - [VexDB](https://vexdb.io/) - Most up-to-date database for viewing information about VEX teams and events. Includes an API whuch is easy to use and well documented.
