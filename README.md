@@ -10,11 +10,11 @@
 - [Suppliers](#suppliers)
 - [Programming](#programming)
 - [Electronics](#electronics)
+- [Mechanical](#mechanical)
 - [Scouting](#scouting)
 - [ENB](#ENB)
 - [Community](#community)
 - [Repositories](#repositories)
-  - [Pros (C++/C#)](#pros)
 
 ## General
 
@@ -25,6 +25,7 @@
 
 ## Suppliers
 
+
 ## Programming
 
 - [VEXcode API Reference](https://api.vexcode.cloud/v5/html/) - Information on the V5 API included inside of VEXcode pro V5
@@ -32,9 +33,14 @@
 
 ## Scouting
 
+- [VEX Database](http://vexdb.io/) - Versdatabase for pre-competition scouting. You can search any team in existence and all of their stats, and the API is easy to use and well documented.
+
+## Scouting
+
 - [VexDB](https://vexdb.io/) - Most up-to-date database for viewing information about VEX teams and events. Includes an API whuch is easy to use and well documented.
 
 ## ENB
+
 
 ## Community
 
@@ -44,10 +50,6 @@
 - [Discord Server List](https://docs.google.com/spreadsheets/d/1MqwE_L4Z0RDf1Sn-dsfFZ7jBVD8bMkqPHGrqrejq_o0/edit) - List of unofficial regional, organizational, and community servers for VEX.
 
 ## Repositories
-### Pros
-- [pros](https://github.com/purduesigbots/pros) - Source code for PROS kernel: open source C/C++ development for the VEX V5 microcontroller
-- [pros-cli](https://github.com/purduesigbots/pros-cli) - Command Line Interface for managing PROS projects. Works with V5 and the Cortex
-- [pros-vsc](https://github.com/purduesigbots/pros-vsc) - PROS plugin for VS Code
-- [OkapiLib](https://github.com/OkapiLib/OkapiLib) - A PROS library for programming VEX robots.
-- [2020-annotated-robot-code](https://github.com/the7dorks/2020-annotated-robot-code) - All of the code used by 333A's robot in the 2020-2021 VRC Annotated Programming Skills Challenge.
-- 
+
+- [purduesigbots/pros](https://github.com/purduesigbots/pros) - Source code for PROS kernel: open source C/C++ development for the VEX V5 microcontroller
+- [the7dorks/2020-annotated-robot-code](https://github.com/the7dorks/2020-annotated-robot-code) - All of the code used by 333A's robot in the 2020-2021 VRC Annotated Programming Skills Challenge.
