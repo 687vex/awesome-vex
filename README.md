@@ -10,6 +10,7 @@
 - [Suppliers](#suppliers)
 - [Programming](#programming)
 - [Electronics](#electronics)
+- [Mechanical](#mechanical)
 - [Scouting](#scouting)
 - [ENB](#ENB)
 - [Community](#community)
