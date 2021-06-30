@@ -34,10 +34,6 @@
 
 ## Scouting
 
-- [VEX Database](http://vexdb.io/) - Versdatabase for pre-competition scouting. You can search any team in existence and all of their stats, and the API is easy to use and well documented.
-
-## Scouting
-
 - [VexDB](https://vexdb.io/) - Most up-to-date database for viewing information about VEX teams and events. Includes an API whuch is easy to use and well documented.
 
 ## ENB
