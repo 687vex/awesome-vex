@@ -29,6 +29,7 @@
 ## Programming
 
 - [VEXcode API Reference](https://api.vexcode.cloud/v5/html/) - Information on the V5 API included inside of VEXcode pro V5
+- [VCS Command Reference](https://help.vexcodingstudio.com/) - VEX Coding Studio API documentation. Also includes documentation for VEXcode pro V5
 - [PROS Documentation](https://pros.cs.purdue.edu/cortex/index.html) - Getting started with PROS
 
 ## Scouting
