@@ -41,9 +41,9 @@
 
 ## Repositories
 ### Pros
-- [purduesigbots/pros](https://github.com/purduesigbots/pros) - Source code for PROS kernel: open source C/C++ development for the VEX V5 microcontroller
-- [purduesigbots/pros-cli](https://github.com/purduesigbots/pros-cli) - Command Line Interface for managing PROS projects. Works with V5 and the Cortex
-- [purduesigbots/pros-vsc](https://github.com/purduesigbots/pros-vsc) - PROS plugin for VS Code
-- [OkapiLib/OkapiLib](https://github.com/OkapiLib/OkapiLib) - A PROS library for programming VEX robots.
-- [the7dorks/2020-annotated-robot-code](https://github.com/the7dorks/2020-annotated-robot-code) - All of the code used by 333A's robot in the 2020-2021 VRC Annotated Programming Skills Challenge.
+- [pros](https://github.com/purduesigbots/pros) - Source code for PROS kernel: open source C/C++ development for the VEX V5 microcontroller
+- [pros-cli](https://github.com/purduesigbots/pros-cli) - Command Line Interface for managing PROS projects. Works with V5 and the Cortex
+- [pros-vsc](https://github.com/purduesigbots/pros-vsc) - PROS plugin for VS Code
+- [OkapiLib](https://github.com/OkapiLib/OkapiLib) - A PROS library for programming VEX robots.
+- [2020-annotated-robot-code](https://github.com/the7dorks/2020-annotated-robot-code) - All of the code used by 333A's robot in the 2020-2021 VRC Annotated Programming Skills Challenge.
 - 
