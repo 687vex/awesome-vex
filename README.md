@@ -10,6 +10,7 @@
 - [Suppliers](#suppliers)
 - [Programming](#programming)
   - [Control Theory](#control)
+  - [PID in VEX](#PID) 
 - [Electronics](#electronics)
 - [Scouting](#scouting)
 - [ENB](#ENB)
@@ -36,6 +37,12 @@
 - [Introduction to Control Systems (MATLAB)](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd) - A playlist containing an introductory series to Control Systems by MATLAB.
 - [Control Systems Lectures (Brian Douglas)](https://www.youtube.com/playlist?list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L) - A playlist containing a series of Control Systems lectures by Brian Douglas.
 - [Control Systems Lectures (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqzJT87LsdQKYZBC93ezDo) - A playlist containing a series of Control Systems lectures by Neso Academy.
+
+### PID
+
+- [Understanding PID Control (MATLAB)](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) - A playlist containing an introductory series to PID Control Systems by MATLAB.
+- [PID Without a PhD](http://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf) - A paper breaking down how PID Control Systems work without going into the Control Theory aspect of it.
+- [V5 Text PID Tutorial](https://www.youtube.com/watch?v=_Itn-0d340g) - A video explaining how to implement PID in VEX V5 Text.
 
 
 ## Scouting
