@@ -9,12 +9,14 @@
 - [General](#general)
 - [Suppliers](#suppliers)
 - [Programming](#programming)
+  - [VEXcode](#vexcode)
+  - [Pros](#pros)
 - [Electronics](#electronics)
 - [Scouting](#scouting)
 - [ENB](#ENB)
 - [Community](#community)
 - [Repositories](#repositories)
-  - [Pros (C++/C#)](#pros)
+  - [Pros (C++/C#)](#pros-1)
 
 ## General
 
@@ -27,7 +29,10 @@
 
 ## Programming
 
+### VEXcode
 - [VEXcode API Reference](https://api.vexcode.cloud/v5/html/) - Information on the V5 API included inside of VEXcode pro V5
+
+### Pros
 - [PROS Documentation](https://pros.cs.purdue.edu/cortex/index.html) - Getting started with PROS
 
 ## Scouting
