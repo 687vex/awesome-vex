@@ -9,6 +9,7 @@
 - [General](#general)
 - [Suppliers](#suppliers)
 - [Programming](#programming)
+  - [Control Theory](#control)
 - [Electronics](#electronics)
 - [Scouting](#scouting)
 - [ENB](#ENB)
@@ -29,6 +30,13 @@
 
 - [VEXcode API Reference](https://api.vexcode.cloud/v5/html/) - Information on the V5 API included inside of VEXcode pro V5
 - [PROS Documentation](https://pros.cs.purdue.edu/cortex/index.html) - Getting started with PROS
+
+### Control
+
+- [Introduction to Control Systems (MATLAB)](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd) - A playlist containing an introductory series to Control Systems by MATLAB.
+- [Control Systems Lectures (Brian Douglas)](https://www.youtube.com/playlist?list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L) - A playlist containing a series of Control Systems lectures by Brian Douglas.
+- [Control Systems Lectures (Neso Academy)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqzJT87LsdQKYZBC93ezDo) - A playlist containing a series of Control Systems lectures by Neso Academy.
+
 
 ## Scouting
 
