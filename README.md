@@ -70,7 +70,7 @@
 - [Discord Server List](https://docs.google.com/spreadsheets/d/1MqwE_L4Z0RDf1Sn-dsfFZ7jBVD8bMkqPHGrqrejq_o0/edit) - List of unofficial regional, organizational, and community servers for VEX.
 
 ## Repositories
-### Pros
+### Pros Repositories
 - [pros](https://github.com/purduesigbots/pros) - Source code for PROS kernel: open source C/C++ development for the VEX V5 microcontroller
 - [pros-cli](https://github.com/purduesigbots/pros-cli) - Command Line Interface for managing PROS projects. Works with V5 and the Cortex
 - [pros-vsc](https://github.com/purduesigbots/pros-vsc) - PROS plugin for VS Code
