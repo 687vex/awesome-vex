@@ -11,7 +11,7 @@
 - [Programming](#programming)
   - [VEXcode](#vexcode)
   - [Pros](#pros)
-  - [Control Theory](#control)
+  - [Control Theory](#control-theory)
   - [PID in VEX](#PID) 
 - [Electronics](#electronics)
 - [Mechanical](#mechanical)
