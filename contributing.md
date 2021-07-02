@@ -17,6 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 - The pull request should have a useful title, include the link to the resource you want to add and why it should be included.
    - Example: 
    ```Add Knowledge Bases
-      Add information about existing VEX Knowledge Bases```
+      Add information about existing VEX Knowledge Bases
+   ```
 
 Thank you for your suggestions!
