@@ -18,7 +18,7 @@
 - [Scouting](#scouting)
 - [ENB](#ENB)
 - [Community](#community)
-- [Repositories](#repositories)
+- [Repositories](#pros-repositories)
   - [Pros (C++/C#)](#pros-1)
 
 ## General
