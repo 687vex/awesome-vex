@@ -7,7 +7,7 @@
 ## Contents
 
 - [General](#general)
-- [Suppliers](#suppliers)
+- [Knowledge Bases](#knowledge-bases)
 - [Programming](#programming)
   - [VEXcode](#vexcode)
   - [Pros](#pros)
