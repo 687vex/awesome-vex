@@ -38,7 +38,7 @@
 - [VCS Command Reference](https://help.vexcodingstudio.com/) - VEX Coding Studio API documentation. Also includes documentation for VEXcode pro V5
 
 ### Pros
-=======
+
 - [PROS Documentation](https://pros.cs.purdue.edu/cortex/index.html) - Getting started with PROS
 
 ### Control
