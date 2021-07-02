@@ -14,6 +14,7 @@
   - [Control Theory](#control)
   - [PID in VEX](#PID) 
 - [Electronics](#electronics)
+- [Mechanical](#mechanical)
 - [Scouting](#scouting)
 - [ENB](#ENB)
 - [Community](#community)
@@ -29,12 +30,15 @@
 
 ## Suppliers
 
+
 ## Programming
 
 ### VEXcode
 - [VEXcode API Reference](https://api.vexcode.cloud/v5/html/) - Information on the V5 API included inside of VEXcode pro V5
+- [VCS Command Reference](https://help.vexcodingstudio.com/) - VEX Coding Studio API documentation. Also includes documentation for VEXcode pro V5
 
 ### Pros
+=======
 - [PROS Documentation](https://pros.cs.purdue.edu/cortex/index.html) - Getting started with PROS
 
 ### Control
@@ -55,6 +59,7 @@
 - [VexDB](https://vexdb.io/) - Most up-to-date database for viewing information about VEX teams and events. Includes an API whuch is easy to use and well documented.
 
 ## ENB
+
 
 ## Community
 
