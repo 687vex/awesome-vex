@@ -1,3 +1,13 @@
+<div align="left">
+  <a href="https://github.com/687vex/awesome-vex/stargazers"><img src="https://img.shields.io/github/stars/687vex/awesome-vex" alt="Stars Badge"/></a>
+  <a href="https://github.com/687vex/awesome-vex/members"><img src="https://img.shields.io/github/forks/687vex/awesome-vex" alt="Forks Badge"/></a>
+  <a href="https://github.com/687vex/awesome-vex/pulls"><img src="https://img.shields.io/github/issues-pr/687vex/awesome-vex" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/687vex/awesome-vex"><img src="https://img.shields.io/github/issues/687vex/awesome-vex" alt="Issues Badge"/></a>
+  <a href="https://github.com/687vex/awesome-vex"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/687vex/awesome-vex?color=2b9348"></a>
+  <a href="https://github.com/687vex/awesome-vex/blob/main/LICENSE"><img src="https://img.shields.io/github/license/687vex/awesome-vex?color=2b9348" alt="License Badge"/></a>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a>
+</div>
+
 # Awesome VEX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="media/vex.png" align="right" width="150">](https://www.vexrobotics.com/v5/competition)
