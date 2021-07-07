@@ -81,9 +81,9 @@
 - [OkapiLib](https://github.com/OkapiLib/OkapiLib) - A PROS library for programming VEX robots.
 - [2020-annotated-robot-code](https://github.com/the7dorks/2020-annotated-robot-code) - All of the code used by 333A's robot in the 2020-2021 VRC Annotated Programming Skills Challenge.
 
-[contributors-shield]: https://img.shields.io/github/contributors/687vex/NerdyField.svg?style=for-the-badge
-[contributors-url]: https://github.com/687vex/NerdyField/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/687vex/NerdyField.svg?style=for-the-badge
-[forks-url]: https://github.com/687vex/NerdyField/network/members
-[stars-shield]: https://img.shields.io/github/stars/687vex/NerdyField.svg?style=for-the-badge
-[stars-url]: https://github.com/687vex/NerdyField/stargazers
+[contributors-shield]: https://img.shields.io/github/contributors/687vex/awesome-vex.svg?style=for-the-badge
+[contributors-url]: https://github.com/687vex/awesome-vex/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/687vex/awesome-vex.svg?style=for-the-badge
+[forks-url]: https://github.com/687vex/awesome-vex/network/members
+[stars-shield]: https://img.shields.io/github/stars/687vex/awesome-vex.svg?style=for-the-badge
+[stars-url]: https://github.com/687vex/awesome-vex/stargazers
