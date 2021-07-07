@@ -2,7 +2,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 
-# Awesome VEX 
+# Awesome VEX [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [<img src="media/vex.png" align="right" width="150">](https://www.vexrobotics.com/v5/competition)
 
