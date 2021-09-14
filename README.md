@@ -22,8 +22,8 @@
 - [Scouting](#scouting)
 - [ENB](#ENB)
 - [Community](#community)
-- [Repositories](#pros-repositories)
-  - [Pros (C++/C#)](#pros-1)
+- [Repositories](#repositories)
+  - [Pros (C++/C#)](#pros-repositories)
 
 ## General
 - [VRC Current Game Overview](https://www.vexrobotics.com/v5/competition/vrc-current-game) - Brief overview of this season's competition.
