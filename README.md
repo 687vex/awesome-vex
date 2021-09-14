@@ -26,7 +26,6 @@
   - [Pros (C++/C#)](#pros-1)
 
 ## General
-
 - [VRC Current Game Overview](https://www.vexrobotics.com/v5/competition/vrc-current-game) - Brief overview of this season's competition.
 - [VRC Game Manual](https://content.vexrobotics.com/docs/21-22/tipping-point/GameManual-1.0.pdf) - Game manual for this season's competition.
 - [VRC Hub App](https://www.vexrobotics.com/v5/competition/vrc-hub) - Official competition companion for teams, spectators, and event planners involved in the VEX Robotics Competition!
