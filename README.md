@@ -33,6 +33,12 @@
 
 ## Knowledge Bases
 
+- [VEX Robotics Knowledge Base](https://kb.vex.com/hc/en-us/categories/360002333191-V5) - A curated list of articles and tutorials for VEX Robotics.
+- [VEX EDR Curriculum](https://curriculum.vexrobotics.com/index.html) - A curriculum created by VEX for VEX EDR.
+- [VEX Educator Certifications](https://certifications.vex.com/educator) - A curriculum created by VEX for educators to familiarize with the V5 and IQ system.
+- [Unofficial VEX Robotics Wiki](https://vexwiki.org/start) - An unofficial curated list of articles and tutorials for VEX Robotics.
+
+
 ## Suppliers
 
 
