@@ -16,7 +16,8 @@
   - [VEXcode](#vexcode)
   - [Pros](#pros)
   - [Control Theory](#control-theory)
-  - [PID in VEX](#PID) 
+  - [PID in VEX](#PID)
+  - [Odometry](#odometry) 
 - [Electronics](#electronics)
 - [Mechanical](#mechanical)
 - [Scouting](#scouting)
@@ -65,6 +66,27 @@
 - [Introduction to PID Controllers](http://georgegillard.com/documents/2-introduction-to-pid-controllers) - A programming guide on an advanced programming controller - the PID controller.
 - [V5 Text PID Tutorial](https://www.youtube.com/watch?v=_Itn-0d340g) - A video explaining how to implement PID in VEX V5 Text.
 
+### Odometry
+
+- [Northwestern Robotics's Modern Robotics](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx) - A playlist containing an introductory series to Modern Robotics by Northwestern Robotics.
+
+- [Northwestern Robotics's Modern Robotics, Chapter 13.4: Odometry](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) - A brief introduction to odometry by Northwestern Robotics.
+
+- [Odometry Lecture (Rex Liu)](https://www.youtube.com/playlist?list=PLsTj2tgnvJ8Qm96AQsrS2ehwexOj03Try) - A playlist containing an introductory series to PID Control Systems by MATLAB.
+
+- [FTC Odometry/Position Tracking Math Tutorial (The Aluminum Cobblers 5436)](https://www.youtube.com/playlist?list=PLg5CVP18PiikG7WS2MFWi1IXPJd5eMuiv) - A playlist containing an introductory series to the math behind by FTC Team 5436: The Aluminum Cobblers.
+
+- [Intro to Odometry, Part 1)](https://www.youtube.com/watch?v=ZW7T6EFyYnc) - In this video, we systematically derive and develop intuition for general odometry processes, as well as the linear odometry assumption.
+
+- [Odometry (Wikipedia Article)](https://en.wikipedia.org/wiki/Odometry) - A Wikipedia article dicussing Odometry and various aspects of it.
+
+- [Tank Drive Odometry Tutorial](https://www.youtube.com/watch?v=BMwsLJJUidU) - A Wikipedia article dicussing Odometry and various aspects of it.
+
+- [Wheeled Robot Control and Odometry](https://www.youtube.com/watch?v=LrsTBWf6Wsc) - A Wikipedia article dicussing Odometry and various aspects of it.
+
+- [Odometry - Position Tracking Tutorial (Part 1)](https://www.youtube.com/watch?v=h9dJAEqiBPs) - A Wikipedia article dicussing Odometry and various aspects of it.
+
+- [Odometry - Position Tracking Tutorial (Part 2)](https://www.youtube.com/watch?v=p5QmEt040pU) - A Wikipedia article dicussing Odometry and various aspects of it.
 
 ## Scouting
 
